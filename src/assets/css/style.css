@@ -1,0 +1,21 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.bg-img{
+    background-image: url("/src/assets/img/bg-pizza.jpg"); 
+    background-color: #cccccc; 
+    height: 200px; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.cardwidth{
+  width: 18rem
+}
+.butonCard{
+  margin: 0 0 10px 0;
+    display: flex;
+    justify-content: space-around;
+}
